@@ -1,9 +1,8 @@
 ### Hi there 👋
 <!-- top left -->
 <a href="https://arshiamidos.github.io">
-    <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="50" height="50"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="50" height="50"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="40" height="40"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="50" height="50"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="50" height="50"/>
 </a>
 <!--
 **willdonner/willdonner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
