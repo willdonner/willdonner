@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1
-![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=willdonner&layout=compact&card_width=445)
+<!-- status codes -->
+<a align="center" href="https://willdonner.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=willdonner&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdonner&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
