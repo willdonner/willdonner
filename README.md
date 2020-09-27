@@ -4,6 +4,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="50" height="50"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="50" height="50"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif?1450458551" width="50" height="50"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1545813454/5109/linkwut.gif?1545813454" width="50" height="50"/>
 </a>
 <!--
 **idisfkj/idisfkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
